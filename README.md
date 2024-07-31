@@ -24,7 +24,3 @@ ourbigracoon.com
 ## tools: 
 
 For loop, string concatenation
-
-## 
-
-- Agrega varios tipos de extensiones, por ejemplo: .com, .net, .us, .io, etc.
